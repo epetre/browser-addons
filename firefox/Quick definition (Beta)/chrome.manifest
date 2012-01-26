@@ -1,0 +1,4 @@
+content   defire              content/
+skin      defire  classic/1.0 skin/
+locale    defire  en-US       locale/en-US/
+overlay chrome://browser/content/browser.xul chrome://defire/content/browser.xul

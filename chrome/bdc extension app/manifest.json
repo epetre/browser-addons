@@ -1,0 +1,15 @@
+{
+  "name": "Burndown Charts Tool",
+  "description": "Burndown chart tool online/free/quick/simple",
+  "version": "0.2.2",
+  "icons": {
+    "128": "icon_128.png",
+    "16": "icon.png",
+    "48": "icon.png"
+  },
+  "app": {
+    "launch": {
+      "web_url": "http://www.burndown-charts.com"
+    }
+  }
+}

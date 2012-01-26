@@ -1,0 +1,12 @@
+{
+  "name": "Burndown Charts Tool",
+  "description": "Burndown chart tool online/free/quick/simple",
+  "version": "0.1",
+  "background_page": "bg.html",
+   "browser_action": {
+     "default_icon": "icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

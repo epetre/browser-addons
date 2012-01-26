@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://defire/skin/skin.css" type="text/css"?>
+<!DOCTYPE linktargetfinder SYSTEM "chrome://defire/locale/translations.dtd">
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+	<script src="defire.js" />      
+</overlay>
