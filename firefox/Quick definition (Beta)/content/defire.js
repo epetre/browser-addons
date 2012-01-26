@@ -8,7 +8,7 @@
  
             doc.onkeydown = function(e) {
 			
-			 if (e.ctrlKey && e.shiftKey && e.alttKey) {
+			 if (e.ctrlKey && e.shiftKey && e.altKey) {
 				win.open("https://www.google.com/search?client=ubuntu&channel=fs&q=define " + content.getSelection(), '_blank');
 			 }
 		}

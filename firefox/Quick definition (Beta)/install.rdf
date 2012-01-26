@@ -9,9 +9,9 @@
   <RDF:Description RDF:about="urn:mozilla:install-manifest"
                    em:id="{b5cf9609-61f7-4e1e-b85a-3f12dd24872a}"
                    em:name="Quick definition (Beta)"
-                   em:version="0.3"
+                   em:version="0.4"
                    em:creator="SynApps"
-                   em:description="Simplified word definition for firefox, simply press ctrl+shift+d to get a definition on a new tab">
+                   em:description="Simplified word definition for firefox, simply press Ctrl+Shift+Alt to get a definition on a new tab">
     <em:targetApplication RDF:resource="rdf:#$2yb361"/>
   </RDF:Description>
   <RDF:Description RDF:about="rdf:#$4yb361"

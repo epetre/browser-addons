@@ -1,7 +1,7 @@
 {
   "name": "Burndown Charts Tool",
   "description": "Burndown chart tool online/free/quick/simple",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "icons": {
     "128": "icon_128.png",
     "16": "icon.png",
