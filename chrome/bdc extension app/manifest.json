@@ -1,6 +1,6 @@
 {
   "name": "Burndown-charts, Your agile dashboard",
-  "description": "Insightful widgets and burn-down charts about your Scrum team's performance. Keep track your team's progress, velocity, standard deviation and many more.",
+  "description": "Insightful widgets and burn-down charts about your Scrum team's performance.",
   "version": "1.0.0",
   "icons": {
     "128": "icon_128.png",
